@@ -22,7 +22,7 @@ const todosData = [
     {
         id: 5,
         text: "Do hpomeworks",
-        completed: false
+        completed: true
     },
     {
         id: 6,
